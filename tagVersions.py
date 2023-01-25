@@ -10,6 +10,5 @@ git checkout v1
 git checkout v1-beta
 
 git tag 
-
 '''
 
