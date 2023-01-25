@@ -9,7 +9,7 @@ git tag v1-beta
 git checkout v1
 git checkout v1-beta
 
-git tag
+git tag 
 
 git hist master --all 
 '''

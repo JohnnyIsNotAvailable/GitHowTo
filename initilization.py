@@ -1,6 +1,6 @@
 #git init
 
-'''
+''' 
 Then we choose and add file: 
 git add hello.html 
 
