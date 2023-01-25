@@ -11,5 +11,5 @@ git checkout v1-beta
 
 git tag 
 
-git hist master --all 
 '''
+
